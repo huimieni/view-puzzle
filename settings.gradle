@@ -1,0 +1,3 @@
+rootProject.name='view-pluzzle'
+include ':app'
+include ':puzzle'
